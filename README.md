@@ -7,7 +7,9 @@
 ```npm init```
 
 ```npm install discord.js```
+
 ```npm install dotenv```
+
 ```npm install -D nodemon```
 
 ## **Uruchomienie bota** 
