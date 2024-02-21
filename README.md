@@ -8,17 +8,25 @@
 npm init
 ```
 
-```npm install discord.js```
+```javascript
+npm install discord.js
+```
 
-```npm install dotenv```
+``` javascript
+npm install dotenv
+```
 
-```npm install -D nodemon```
+``` javascript
+npm install -D nodemon
+```
 
 ## **Uruchomienie bota** 
 
 * Wpisz w terminalu tę komendę:
    
-```npm run start:dev```
+``` javascript
+npm run start:dev
+```
 
 ## Informacje
 
