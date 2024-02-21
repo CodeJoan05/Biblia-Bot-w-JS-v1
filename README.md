@@ -4,7 +4,9 @@
 
 * Wpisz w terminalu po kolei następujące komendy:
 
-```npm init```
+```javascript
+npm init
+```
 
 ```npm install discord.js```
 
