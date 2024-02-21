@@ -7,13 +7,15 @@
 ```npm init```
 
 ```npm install discord.js```
+```npm install dotenv```
+```npm install -D nodemon```
 
 ## **Uruchomienie bota** 
 
 * Wpisz w terminalu tę komendę:
    
-```node index.js```
+```npm run start:dev```
 
 ## Informacje
 
-* Bot posiada Biblię Gdańską z 1881 roku
+* Bot zawiera Biblię Gdańską z 1881 roku
