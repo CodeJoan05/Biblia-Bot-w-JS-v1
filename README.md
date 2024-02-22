@@ -20,6 +20,12 @@ npm install dotenv
 npm install -D nodemon
 ```
 
+## Utwórz plik .env
+
+``` javascript
+TOKEN=token bota
+```
+
 ## **Uruchomienie bota** 
 
 * Wpisz w terminalu tę komendę:
